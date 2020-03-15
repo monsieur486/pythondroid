@@ -1,1 +1,1 @@
-pygame==1.9.6
+pipupgrade==1.6.8
